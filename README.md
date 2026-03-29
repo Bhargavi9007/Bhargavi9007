@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Bhargavi9007/Bhargavi9007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +25,7 @@ Python • Java • HTML • CSS • JavaScript • Git • GitHub
 
 ## 🔗 Profiles
 LinkedIn: https://www.linkedin.com/in/pogalla-bhargavi-6915772a5/ 
+
 LeetCode: https://leetcode.com/u/Bhargavireddy18/
 
 ## 📬 Reach Me At
